@@ -1,2 +1,2 @@
 # Retail-Store-Analysis
-A retail store project performed which gaves ad hoc reports and answered various questions that were needed answered from the real time data
+A retail store project performed which gives an ad hoc report and answers various questions that are needed answered from the real time data provided
