@@ -1,2 +1,2 @@
 # Retail-Store-Analysis
-A freelance project that was done for a client, Uploading here with a dummy dataset for my portfolio
+A retail store project performed which gaves ad hoc reports and answered various questions that were needed answered from the real time data
